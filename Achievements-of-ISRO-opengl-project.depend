@@ -361,7 +361,17 @@
 	<GL/glut.h>
 	<stdio.h>
 
+<<<<<<< Updated upstream
 1626257318 c:\users\hp\cgv\achievements-of-isro-opengl-project\slvmission.h
+=======
+1626502522 c:\users\hp\cgv\achievements-of-isro-opengl-project\slvmission.h
+	<GL/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+>>>>>>> Stashed changes
 
 1626257318 c:\users\hp\cgv\achievements-of-isro-opengl-project\quiz.h
 	<stdio.h>
